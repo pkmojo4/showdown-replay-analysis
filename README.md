@@ -2,6 +2,8 @@
 
 This is an example using node.js to analyze Pokemon Showdown replays.
 
+Pair programmed with @vingkan.
+
 ## Useful Links
 
 - [Showdown API](https://github.com/smogon/pokemon-showdown)
